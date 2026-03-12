@@ -1,4 +1,0 @@
-step 1 : user name taken
-step 2 : password taken
-step 3 : button responded
-Test passed

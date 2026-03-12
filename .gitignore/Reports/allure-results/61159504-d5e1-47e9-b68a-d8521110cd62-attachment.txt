@@ -1,8 +1,0 @@
-step 4 : menu button responded
-step 5 : log out successful
-Error detected
-assert 'Swag Labs' == 'abc'
-  
-  [0m[91m- abc[39;49;00m[90m[39;49;00m
-  [92m+ Swag Labs[39;49;00m[90m[39;49;00m
-Test completed
